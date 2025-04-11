@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyrilGuo
 - 👀 I’m interested in GameDev ang WebDev
 - 🌱 I’m currently learning Vue3 and JS
-- 📫 How to reach me cyril_0614@163.com
+- 📫 How to reach me connect@gwly.dpdns.org
 - 😄 Pronouns: Devloper
 - ⚡ Fun fact: GWLY is only have 3 stuff(include me)
