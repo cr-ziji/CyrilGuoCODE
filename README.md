@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Vue3 and JS
 - 📫 How to reach me connect@gwly.dpdns.org
 - 😄 Pronouns: Devloper
-- ⚡ Fun fact: GWLY is only have 3 stuff(include me)
