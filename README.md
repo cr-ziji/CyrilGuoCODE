@@ -1,8 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=480&lines=👋+Hi%2C+I%E2%80%99m+Cyril+Guo!;Welcome+to+my+digital+space!;Coding+is+my+superpower!;Keep+Learning%2C+Keep+Growing!" alt="Typing SVG" />
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+World!;Coding+Is+My+Superpower!;Keep+Learning%2C+Keep+Growing!" alt="Typing SVG" /> </p>
 
 </div>
 
@@ -19,8 +17,7 @@
 
 ## 🚀 关于我 / About Me
 
-- 🧑‍💻 代码玩家 & 技术探索者
-- 🌱 热爱学习，持续成长
+- 🧑‍💻 爱折腾的学生
 - 🤖 喜欢自动化、AI、游戏开发
 - 🛠️ 技术栈：**Vue / Python / Node.js / HTML / C#**
 - 🌏 希望用代码连接世界，让生活更美好
@@ -41,8 +38,7 @@
 
 ## 🧩 正在折腾 / Currently Hacking On
 
-- <img src="https://img.shields.io/badge/-MeesageIn-blue" />  
-  🚧 持续开发中，敬请期待！
+- <img src="https://img.shields.io/badge/-MeesageIn-blue" />  [MessageIn](https://github.com/CyrilGuoCODE/MessageIn)
 
 ---
 
