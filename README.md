@@ -17,9 +17,8 @@
 <img align="right" width="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🧑‍💻 爱折腾的学生
-- 🤖 喜欢自动化、AI、游戏开发
+- 🤖 喜欢自动化、AI、 Web、游戏开发
 - 🛠️ 技术栈：**Vue / Python / Node.js / HTML / C#**
-- 🌏 希望用代码连接世界，让生活更美好
 
 ---
 
@@ -38,6 +37,8 @@
 
 - <img src="https://img.shields.io/badge/-MeesageIn-blue" /> [MessageIn](https://github.com/CyrilGuoCODE/MessageIn)
 
+- GMTK 2025 GameJam - [SaveLoop](https://cyrilguo.itch.io/saveloop)
+
 ---
 
 ## 💬 联系我 / Contact
@@ -48,10 +49,12 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake.svg?proxy-host=raw.githubusercontent.com">
+  <img alt="github contribution grid" src="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake.svg?proxy-host=raw.githubusercontent.com" width="100%">
+</picture>
+
 <div align="center">
-
-✨ <b>Let's code the future, together!</b> 🚀
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="120" />
-
+  <img src="https://komarev.com/ghpvc/?username=cyrilguocode&color=blue" alt="Profile views" />
 </div>
