@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 关于我 / About Me
+## 关于我 / About Me
 
 <img align="right" width="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🧑‍💻 爱折腾的学生
-- 🤖 喜欢自动化、AI、 Web、游戏开发
-- 🛠️ 技术栈：**Vue / Python / Node.js / HTML / C#**
+- 爱折腾的学生
+- 喜欢自动化、AI、 Web、游戏开发
+- 技术栈：**Vue / Python / Node.js / HTML / C#**
 
 ---
 
-## 📈 我的足迹 / GitHub Stats
+## 我的足迹 / GitHub Stats
 
 <div align="center">
 
@@ -33,19 +33,19 @@
 
 ---
 
-## 🧩 正在折腾 / Currently Hacking On
+## 正在折腾 / Currently Hacking On
 
-- <img src="https://img.shields.io/badge/-MeesageIn-blue" /> [MessageIn](https://github.com/CyrilGuoCODE/MessageIn)
+- <img src="https://img.shields.io/badge/-Auto366-blue" /> [MessageIn](https://github.com/CyrilGuoCODE/Auto366)
 
 - GMTK 2025 GameJam - [SaveLoop](https://cyrilguo.itch.io/saveloop)
 
 ---
 
-## 💬 联系我 / Contact
+## 联系我 / Contact
 
-- 📬 邮箱: [cyril_0614@163.com](mailto:cyril_0614@163.com)
-- 💡 博客: [gwly.dpdns.org](https://gwly.dpdns.org)
-- 🌟 欢迎 Star / Fork 我的项目，一起交流成长！
+- 邮箱: [cyril_0614@163.com](mailto:cyril_0614@163.com)
+- 博客: [gwly.dpdns.org](https://gwly.dpdns.org)
+- 欢迎 Star / Fork 我的项目，一起交流成长！
 
 ---
 
