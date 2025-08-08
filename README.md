@@ -37,8 +37,6 @@
 
 - <img src="https://img.shields.io/badge/-Auto366-blue" /> [Auto366](https://github.com/CyrilGuoCODE/Auto366)
 
-- GMTK 2025 GameJam - [SaveLoop](https://cyrilguo.itch.io/saveloop)
-
 ---
 
 ## 联系我 / Contact
