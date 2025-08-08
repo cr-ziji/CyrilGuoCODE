@@ -18,7 +18,7 @@
 
 - 爱折腾的学生
 - 喜欢自动化、AI、 Web、游戏开发
-- 技术栈：**Vue / Python / Node.js / HTML / C#**
+- 技术栈：**Python / HTML / css / js / C++**
 
 ---
 
@@ -26,8 +26,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CyrilGuoCODE&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilGuoCODE&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cr-ziji&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr-ziji&layout=compact&theme=radical&hide_border=true" height="150"/>
 
 </div>
 
@@ -43,8 +43,8 @@
 
 ## 联系我 / Contact
 
-- 邮箱: [cyril_0614@163.com](mailto:cyril_0614@163.com)
-- 博客: [gwly.dpdns.org](https://gwly.dpdns.org)
+- 邮箱: 不到
+- 博客: 没有
 - 欢迎 Star / Fork 我的项目，一起交流成长！
 
 ---
