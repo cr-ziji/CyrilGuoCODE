@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&center=true&vCenter=true&width=530&lines=Hello+World!;Coding+Is+My+Superpower!;Keep+Learning%2C+Keep+Growing!" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=CyrilGuoCODE&color=blueviolet&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/CyrilGuoCODE?label=Follow&style=social)](https://github.com/CyrilGuoCODE?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/CyrilGuoCODE/CyrilGuoCODE?style=social)](https://github.com/CyrilGuoCODE/CyrilGuoCODE/stargazers)
+![Profile Views](https://komarev.com/ghpvc/?username=cr-ziji&color=blueviolet&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/cr-ziji?label=Follow&style=social)](https://github.com/cr-ziji?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/cr-ziji/cr-ziji?style=social)](https://github.com/cr-ziji/cr-ziji/stargazers)
 ![Code Passion](https://img.shields.io/badge/Code-Passion-blueviolet)
 ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-ff69b4)
 
@@ -56,5 +56,5 @@
 </picture>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyrilguocode&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cr-ziji&color=blue" alt="Profile views" />
 </div>
