@@ -35,7 +35,7 @@
 
 ## 正在折腾 / Currently Hacking On
 
-- <img src="https://img.shields.io/badge/-Auto366-blue" /> [MessageIn](https://github.com/CyrilGuoCODE/Auto366)
+- <img src="https://img.shields.io/badge/-Auto366-blue" /> [Auto366](https://github.com/CyrilGuoCODE/Auto366)
 
 - GMTK 2025 GameJam - [SaveLoop](https://cyrilguo.itch.io/saveloop)
 
